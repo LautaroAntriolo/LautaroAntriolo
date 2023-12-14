@@ -35,4 +35,4 @@ IMAGENES
 IMAGEN CON UN IMPERVINCULO ASOCIADO
 [![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)](https://ejemplo.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAMBIAR_POR_NUESTRO_NOMBRE&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroAntriolo&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
